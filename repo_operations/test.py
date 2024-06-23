@@ -1,0 +1,2 @@
+star = apple
+print(star)
